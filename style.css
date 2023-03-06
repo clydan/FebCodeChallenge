@@ -270,6 +270,7 @@ body{
   justify-content: flex-start;
   gap: 2em;
   padding: 1em;
+  padding-right: 6em;
 }
 
 .trailling>.content>.trailling>.register>.col1>.dp{
