@@ -432,6 +432,10 @@ body{
   border: var(--warning-color) solid 1px;
 }
 
+.input-warning>input:focus{
+  outline: none;
+}
+
 .input-warning>small{
   position: absolute;
   bottom: 0;
